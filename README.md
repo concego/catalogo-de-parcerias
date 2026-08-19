@@ -12,7 +12,7 @@ Catálogo de potenciais parceiros para massoterapia em um raio de 100 km central
 
 ## Critério de parceiros
 
-Foram removidos estabelecimentos explicitamente identificados como massoterapia, massoterapeuta, massagista, massagem ou terapias corporais. Permanecem clínicas, estéticas, spas, coworkings, hotéis, pousadas e hospedarias com potencial de parceria.
+Foram removidos estabelecimentos explicitamente identificados como massoterapia, massoterapeuta, massagista, massagem ou terapias corporais. Permanecem clínicas, estéticas, spas, coworkings, clubes, hotéis, pousadas e hospedarias com potencial de parceria.
 
 ## Persistência
 
