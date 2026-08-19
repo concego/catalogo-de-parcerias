@@ -1,5 +1,43 @@
 [
   {
+    "id": "ChIJE3DNZZrIoQARuJrDPu9uF-c",
+    "name": "Athletic Club",
+    "city": "São João del Rei",
+    "category": "Clubes / lazer e esportes",
+    "description": "Clube, associação ou espaço esportivo com potencial para ações de bem-estar, atendimento em eventos e parceria com associados.",
+    "address": "R. Pref. Nascimento Teixeira, 160 - Segredo, São João del Rei - MG, 36307-404, Brazil",
+    "rating": 4.6,
+    "reviews": 339,
+    "phone": "(32) 3371-8956",
+    "phoneHref": "tel:+553233718956",
+    "link": "http://www.athleticclub.com.br/",
+    "linkLabel": "Site"
+  },
+  {
+    "id": "ChIJ74CoVJDIoQARwFxp8tq7RPk",
+    "name": "Athletic Club",
+    "city": "São João del Rei",
+    "category": "Clubes / lazer e esportes",
+    "description": "Clube, associação ou espaço esportivo com potencial para ações de bem-estar, atendimento em eventos e parceria com associados.",
+    "address": "Av. Tiradentes, 671 - Centro, São João del Rei - MG, 36307-346, Brazil",
+    "rating": 4.5,
+    "reviews": 76,
+    "phone": "(32) 3371-8956",
+    "phoneHref": "tel:+553233718956",
+    "link": "https://athleticclub.com.br/",
+    "linkLabel": "Site"
+  },
+  {
+    "id": "ChIJg0LJVADHoQARAod3pSmHTyg",
+    "name": "Athletic Club-MG",
+    "city": "São João del Rei",
+    "category": "Clubes / lazer e esportes",
+    "description": "Clube, associação ou espaço esportivo com potencial para ações de bem-estar, atendimento em eventos e parceria com associados.",
+    "address": "R. Sebastião Rodrigues de Carvalho, 100 - Centro, São João del Rei - MG, 36307-970, Brazil",
+    "rating": 5,
+    "reviews": 1
+  },
+  {
     "id": "ChIJndONi5rIoQARLF-qtXFs1KY",
     "name": "Clinica de Estética | Fisioclim | Criolipólise",
     "city": "São João del Rei",
@@ -36,6 +74,18 @@
     "reviews": 6,
     "phone": "(32) 3371-6275",
     "phoneHref": "tel:+553233716275"
+  },
+  {
+    "id": "ChIJnZsS01THoQARelA6eGfWfi8",
+    "name": "Clube América Recreativo Futebol",
+    "city": "São João del Rei",
+    "category": "Clubes / lazer e esportes",
+    "description": "Clube, associação ou espaço esportivo com potencial para ações de bem-estar, atendimento em eventos e parceria com associados.",
+    "address": "Av. Leite de Castro, 1118 - Fábricas, São João del Rei - MG, 36301-180, Brazil",
+    "rating": 4.9,
+    "reviews": 9,
+    "phone": "(32) 3371-7640",
+    "phoneHref": "tel:+553233717640"
   },
   {
     "id": "ChIJNdHX4tLHoQAREXqVJbAgxL8",
@@ -130,6 +180,20 @@
     "linkLabel": "Facebook"
   },
   {
+    "id": "ChIJDZcxHgDJoQARf1p_OjveWhk",
+    "name": "Esporte Clube Bonfim",
+    "city": "São João del Rei",
+    "category": "Clubes / lazer e esportes",
+    "description": "Clube, associação ou espaço esportivo com potencial para ações de bem-estar, atendimento em eventos e parceria com associados.",
+    "address": "R. Geraldo Pinto Lima, 505 - Bonfim, São João del Rei - MG, 36307-466, Brazil",
+    "rating": 4.6,
+    "reviews": 32,
+    "phone": "(32) 99949-3319",
+    "phoneHref": "tel:+5532999493319",
+    "link": "https://ecbonfim.com.br/",
+    "linkLabel": "Site"
+  },
+  {
     "id": "ChIJPQ2omnXJoQARW5ShCJ5cE5U",
     "name": "Estética Instituto R",
     "city": "São João del Rei",
@@ -206,6 +270,26 @@
     "linkLabel": "Site"
   },
   {
+    "id": "ChIJj1HO9DnJoQARRyGtXizyBJE",
+    "name": "Minas Futebol Clube: Piscina",
+    "city": "São João del Rei",
+    "category": "Clubes / lazer e esportes",
+    "description": "Clube, associação ou espaço esportivo com potencial para ações de bem-estar, atendimento em eventos e parceria com associados.",
+    "address": "R. Padre Rocha - Águas Férreas (Tejuco), São João del Rei - MG, 36309-002, Brazil",
+    "rating": 4.8,
+    "reviews": 16
+  },
+  {
+    "id": "ChIJ7SFHOwDJoQARIHaGzZ7ILpE",
+    "name": "Minas Futebol Clube: Sede Social",
+    "city": "São João del Rei",
+    "category": "Clubes / lazer e esportes",
+    "description": "Clube, associação ou espaço esportivo com potencial para ações de bem-estar, atendimento em eventos e parceria com associados.",
+    "address": "R. Min. Gabriel Passos, 329 - 1 andar - Centro, São João del Rei - MG, 36307-330, Brazil",
+    "phone": "(32) 3371-8100",
+    "phoneHref": "tel:+553233718100"
+  },
+  {
     "id": "ChIJB5CN6WfJoQARb-YJ3FbFGf4",
     "name": "New Coworking",
     "city": "São João del Rei",
@@ -244,6 +328,16 @@
     "linkLabel": "Site"
   },
   {
+    "id": "ChIJUyw8KADHoQAR43pnT8Ch7MQ",
+    "name": "Recanto do Tenista - SJDR",
+    "city": "São João del Rei",
+    "category": "Clubes / lazer e esportes",
+    "description": "Clube, associação ou espaço esportivo com potencial para ações de bem-estar, atendimento em eventos e parceria com associados.",
+    "address": "Av. do Contôrno, 115 - Parque Sao Joao Del Rey (Colonia do Marcal), São João del Rei - MG, 36302-164, Brazil",
+    "rating": 5,
+    "reviews": 3
+  },
+  {
     "id": "ChIJMcu7qBTJoQARwJQud6KnVic",
     "name": "Rockfort Coworking",
     "city": "São João del Rei",
@@ -255,6 +349,20 @@
     "phone": "(32) 99923-6423",
     "phoneHref": "tel:+5532999236423",
     "link": "http://www.hubrockfort.com.br/",
+    "linkLabel": "Site"
+  },
+  {
+    "id": "ChIJ6UhuQNHHoQARpc_Wj9Hd1u4",
+    "name": "Social Futebol Clube",
+    "city": "São João del Rei",
+    "category": "Clubes / lazer e esportes",
+    "description": "Clube, associação ou espaço esportivo com potencial para ações de bem-estar, atendimento em eventos e parceria com associados.",
+    "address": "R. João de Deus Assunção, 200 - Jardim Paulo Campos, São João del Rei - MG, 36305-034, Brazil",
+    "rating": 4.5,
+    "reviews": 387,
+    "phone": "(32) 3371-5174",
+    "phoneHref": "tel:+553233715174",
+    "link": "http://www.socialfc.com.br/",
     "linkLabel": "Site"
   }
 ]
