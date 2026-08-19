@@ -9,6 +9,8 @@ Catálogo de potenciais parceiros para massoterapia em um raio de 100 km central
 - `assets/js/app.js`: busca, filtros, status persistentes e exportação CSV.
 - `data/index.json`: metadados, cidades e arquivos disponíveis.
 - `data/partners/`: um arquivo JSON por cidade, facilitando futuras inclusões e atualizações.
+- `data/references/valores-2026.json`: dados da página de referência de preços.
+- `referencia-valores-2026/`: página separada com técnicas, faixas e fontes.
 
 ## Critério de parceiros
 
