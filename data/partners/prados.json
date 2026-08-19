@@ -1,5 +1,19 @@
 [
   {
+    "id": "ChIJ-T3CbYa_oQARrqGppDh-wfE",
+    "name": "Pousada Recanto dos Anjos",
+    "city": "Prados",
+    "category": "Hotelaria / turismo",
+    "description": "Hotel, pousada, hostel ou hospedaria com potencial para parceria de bem-estar, atendimento de hóspedes e ações em períodos de maior fluxo.",
+    "address": "Rua São Sebastião, 89 - Bichinho, Prados - MG, 36320-000, Brazil",
+    "rating": 4.3,
+    "reviews": 61,
+    "phone": "(32) 99843-1134",
+    "phoneHref": "tel:+5532998431134",
+    "link": "https://www.instagram.com/pousada_recantodosanjos/?hl=pt-br",
+    "linkLabel": "Instagram"
+  },
+  {
     "id": "ChIJ_6RXPzWXoQARvToYl8-kLMY",
     "name": "Revitalizza Fisioterapia e Estética",
     "city": "Prados",
