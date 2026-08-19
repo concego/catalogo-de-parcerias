@@ -1,5 +1,15 @@
 [
   {
+    "id": "ChIJi6oLSsusypQR0YjOakGWVXM",
+    "name": "Associação Olímpica de Lavras",
+    "city": "Lavras",
+    "category": "Clubes / lazer e esportes",
+    "description": "Clube, associação ou espaço esportivo com potencial para ações de bem-estar, atendimento em eventos e parceria com associados.",
+    "address": "R. Des. Alberto Luz, 340 - Centro, Lavras - MG, 37200-000, Brazil",
+    "rating": 4.5,
+    "reviews": 101
+  },
+  {
     "id": "ChIJP-IWLKH9nwARx5Dgea7KsXc",
     "name": "AURA - Estética Integrada",
     "city": "Lavras",
@@ -10,6 +20,32 @@
     "reviews": 6,
     "phone": "(35) 99108-9480",
     "phoneHref": "tel:+5535991089480"
+  },
+  {
+    "id": "ChIJy_DKpyqtypQRsZx71_ZbryU",
+    "name": "Aymoré Volley Ball Clube",
+    "city": "Lavras",
+    "category": "Clubes / lazer e esportes",
+    "description": "Clube, associação ou espaço esportivo com potencial para ações de bem-estar, atendimento em eventos e parceria com associados.",
+    "address": "R. Otacílio Negrão de Lima, 222 - Retiro, Lavras - MG, 37200-000, Brazil",
+    "rating": 4,
+    "reviews": 58,
+    "phone": "(35) 3821-7699",
+    "phoneHref": "tel:+553538217699"
+  },
+  {
+    "id": "ChIJNW6cmLGsypQR2X4bDkHRVws",
+    "name": "Campestre Clube Celso Baptista Dias",
+    "city": "Lavras",
+    "category": "Clubes / lazer e esportes",
+    "description": "Clube, associação ou espaço esportivo com potencial para ações de bem-estar, atendimento em eventos e parceria com associados.",
+    "address": "R. Raimunda Marquês Guimarães, 152 - Jardim Gloria, Lavras - MG, 37209-228, Brazil",
+    "rating": 4.4,
+    "reviews": 116,
+    "phone": "(35) 4104-1988",
+    "phoneHref": "tel:+553541041988",
+    "link": "http://www.campestreclube.com.br/",
+    "linkLabel": "Site"
   },
   {
     "id": "ChIJG9QRiH79nwARNHkGeVO2rzE",
@@ -24,6 +60,60 @@
     "phoneHref": "tel:+5535997253478",
     "link": "https://linktr.ee/kaa_souza02",
     "linkLabel": "Link de contato"
+  },
+  {
+    "id": "ChIJYxW3Ztn9nwAR495nLLdi_Eo",
+    "name": "Clube Abr Marelli Lavras",
+    "city": "Lavras",
+    "category": "Clubes / lazer e esportes",
+    "description": "Clube, associação ou espaço esportivo com potencial para ações de bem-estar, atendimento em eventos e parceria com associados.",
+    "address": "R. Rosa Kasinski, 865 - Colinas da Serra, Lavras - MG, 37205-842, Brazil",
+    "rating": 4.5,
+    "reviews": 28,
+    "phone": "(35) 3829-5612",
+    "phoneHref": "tel:+553538295612",
+    "link": "http://instagram.com/abrlavras",
+    "linkLabel": "Instagram"
+  },
+  {
+    "id": "ChIJaTGk_3v_nwARl3h4Hy9XKLU",
+    "name": "Clube de Campo ADUFLA",
+    "city": "Lavras",
+    "category": "Clubes / lazer e esportes",
+    "description": "Clube, associação ou espaço esportivo com potencial para ações de bem-estar, atendimento em eventos e parceria com associados.",
+    "address": "Av. Luiz Gomide, 1181 - Aquenta Sol, Lavras - MG, 37200-000, Brazil",
+    "rating": 4.7,
+    "reviews": 189,
+    "phone": "(35) 3821-8808",
+    "phoneHref": "tel:+553538218808",
+    "link": "http://www.adufla.org.br/",
+    "linkLabel": "Site"
+  },
+  {
+    "id": "ChIJDQ9twon9nwARKromri3_DPc",
+    "name": "Clube de Lavras",
+    "city": "Lavras",
+    "category": "Clubes / lazer e esportes",
+    "description": "Clube, associação ou espaço esportivo com potencial para ações de bem-estar, atendimento em eventos e parceria com associados.",
+    "address": "R. Raul Soares - Centro, Lavras - MG, 37200-000, Brazil",
+    "rating": 4.4,
+    "reviews": 19,
+    "phone": "(35) 3821-3737",
+    "phoneHref": "tel:+553538213737"
+  },
+  {
+    "id": "ChIJQaZuHYb9nwAR_fCB4gAtBEI",
+    "name": "Complexo esportivo público - SELT",
+    "city": "Lavras",
+    "category": "Outro espaço potencial",
+    "description": "Estabelecimento com potencial de parceria local; confirmar se existe sala, público compatível ou interesse em divulgação.",
+    "address": "R. João Pomárico, sn - Centro, Lavras - MG, 37200-000, Brazil",
+    "rating": 4.4,
+    "reviews": 302,
+    "phone": "(35) 3694-4174",
+    "phoneHref": "tel:+553536944174",
+    "link": "http://lavras.mg.gov.br/",
+    "linkLabel": "Site"
   },
   {
     "id": "ChIJvxr3Ygv9nwARR_jFg03eqWg",
@@ -90,6 +180,20 @@
     "linkLabel": "Instagram"
   },
   {
+    "id": "ChIJqS7NLIn9nwARI1trG7FgqXw",
+    "name": "Lavras Tennis Club",
+    "city": "Lavras",
+    "category": "Clubes / lazer e esportes",
+    "description": "Clube, associação ou espaço esportivo com potencial para ações de bem-estar, atendimento em eventos e parceria com associados.",
+    "address": "R. Procópio Alvarenga, 8 - Vila Brasilia, Lavras - MG, 37200-000, Brazil",
+    "rating": 4.5,
+    "reviews": 477,
+    "phone": "(35) 3821-6304",
+    "phoneHref": "tel:+553538216304",
+    "link": "https://ltcoficial.com.br/",
+    "linkLabel": "Site"
+  },
+  {
     "id": "ChIJiSdcv0H9nwARcAfZOQg-I8g",
     "name": "Mansão Jardim",
     "city": "Lavras",
@@ -102,6 +206,18 @@
     "phoneHref": "tel:+553534096396",
     "link": "https://www.mansaojardim.com.br/",
     "linkLabel": "Site"
+  },
+  {
+    "id": "ChIJ0RRgn7msypQRZ_h-Eb7qhio",
+    "name": "Operário Esporte Clube",
+    "city": "Lavras",
+    "category": "Clubes / lazer e esportes",
+    "description": "Clube, associação ou espaço esportivo com potencial para ações de bem-estar, atendimento em eventos e parceria com associados.",
+    "address": "R. Gautiero Franco, 437-717 - Das Mansões, Lavras - MG, 37200-000, Brazil",
+    "rating": 4.6,
+    "reviews": 45,
+    "phone": "(35) 98434-8808",
+    "phoneHref": "tel:+5535984348808"
   },
   {
     "id": "ChIJI36tV7CtypQRMzjo-NMH940",
