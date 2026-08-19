@@ -1,0 +1,68 @@
+{
+  "updated": "2026-08-18",
+  "center": "São João del-Rei",
+  "radius_km": 100,
+  "total": 98,
+  "cities": [
+    {
+      "name": "São João del Rei",
+      "slug": "sao-joao-del-rei",
+      "file": "data/partners/sao-joao-del-rei.json",
+      "count": 24
+    },
+    {
+      "name": "Tiradentes",
+      "slug": "tiradentes",
+      "file": "data/partners/tiradentes.json",
+      "count": 8
+    },
+    {
+      "name": "Santa Cruz de Minas",
+      "slug": "santa-cruz-de-minas",
+      "file": "data/partners/santa-cruz-de-minas.json",
+      "count": 1
+    },
+    {
+      "name": "Prados",
+      "slug": "prados",
+      "file": "data/partners/prados.json",
+      "count": 1
+    },
+    {
+      "name": "Barroso",
+      "slug": "barroso",
+      "file": "data/partners/barroso.json",
+      "count": 8
+    },
+    {
+      "name": "Barbacena",
+      "slug": "barbacena",
+      "file": "data/partners/barbacena.json",
+      "count": 16
+    },
+    {
+      "name": "Lavras",
+      "slug": "lavras",
+      "file": "data/partners/lavras.json",
+      "count": 13
+    },
+    {
+      "name": "Ouro Branco",
+      "slug": "ouro-branco",
+      "file": "data/partners/ouro-branco.json",
+      "count": 11
+    },
+    {
+      "name": "Conselheiro Lafaiete",
+      "slug": "conselheiro-lafaiete",
+      "file": "data/partners/conselheiro-lafaiete.json",
+      "count": 13
+    },
+    {
+      "name": "Resende Costa",
+      "slug": "resende-costa",
+      "file": "data/partners/resende-costa.json",
+      "count": 3
+    }
+  ]
+}
