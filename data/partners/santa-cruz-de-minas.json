@@ -8,5 +8,17 @@
     "address": "R. São Paulo, 71 - centro, Santa Cruz de Minas - MG, 36328-000, Brazil",
     "rating": 5,
     "reviews": 2
+  },
+  {
+    "id": "ChIJa_rD_5HHoQARn89KZwAmybU",
+    "name": "Independente Esporte Clube",
+    "city": "Santa Cruz de Minas",
+    "category": "Clubes / lazer e esportes",
+    "description": "Clube, associação ou espaço esportivo com potencial para ações de bem-estar, atendimento em eventos e parceria com associados.",
+    "address": "Av. Domingos Pinto Camarano, S/N - Colônia do Marçal, Santa Cruz de Minas - MG, 36302-164, Brazil",
+    "rating": 4.2,
+    "reviews": 157,
+    "phone": "(32) 3371-5173",
+    "phoneHref": "tel:+553233715173"
   }
 ]
