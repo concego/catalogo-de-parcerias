@@ -2,19 +2,19 @@
   "updated": "2026-08-18",
   "center": "São João del-Rei",
   "radius_km": 100,
-  "total": 98,
+  "total": 115,
   "cities": [
     {
       "name": "São João del Rei",
       "slug": "sao-joao-del-rei",
       "file": "data/partners/sao-joao-del-rei.json",
-      "count": 24
+      "count": 20
     },
     {
       "name": "Tiradentes",
       "slug": "tiradentes",
       "file": "data/partners/tiradentes.json",
-      "count": 8
+      "count": 20
     },
     {
       "name": "Santa Cruz de Minas",
@@ -26,7 +26,7 @@
       "name": "Prados",
       "slug": "prados",
       "file": "data/partners/prados.json",
-      "count": 1
+      "count": 2
     },
     {
       "name": "Barroso",
@@ -50,19 +50,43 @@
       "name": "Ouro Branco",
       "slug": "ouro-branco",
       "file": "data/partners/ouro-branco.json",
-      "count": 11
+      "count": 12
     },
     {
       "name": "Conselheiro Lafaiete",
       "slug": "conselheiro-lafaiete",
       "file": "data/partners/conselheiro-lafaiete.json",
-      "count": 13
+      "count": 14
     },
     {
       "name": "Resende Costa",
       "slug": "resende-costa",
       "file": "data/partners/resende-costa.json",
       "count": 3
+    },
+    {
+      "name": "Carrancas",
+      "slug": "carrancas",
+      "file": "data/partners/carrancas.json",
+      "count": 2
+    },
+    {
+      "name": "São Tomé das Letras",
+      "slug": "sao-tome-das-letras",
+      "file": "data/partners/sao-tome-das-letras.json",
+      "count": 2
+    },
+    {
+      "name": "Santana dos Montes",
+      "slug": "santana-dos-montes",
+      "file": "data/partners/santana-dos-montes.json",
+      "count": 1
+    },
+    {
+      "name": "Lima Duarte",
+      "slug": "lima-duarte",
+      "file": "data/partners/lima-duarte.json",
+      "count": 1
     }
   ]
 }
