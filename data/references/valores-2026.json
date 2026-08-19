@@ -1,0 +1,41 @@
+{
+  "title": "Referência de valores a cobrar em 2026",
+  "region": "São João del-Rei e região ampliada, em até 100 km",
+  "updated": "2026-08-18",
+  "disclaimer": "São faixas de sugestão para profissionais autônomos ou clínicas da região, não uma tabela oficial. Ajuste pelo custo real, formação, duração, estrutura, deslocamento e responsabilidade técnica.",
+  "techniques": [
+    {"name":"Massagem relaxante / clássica","duration":"60 min","suggested":"R$ 100–140","notes":"Boa porta de entrada. Em 90 min, considerar R$ 150–190."},
+    {"name":"Massagem terapêutica","duration":"60 min","suggested":"R$ 120–180","notes":"Exigir anamnese, objetivo claro e limites de atuação."},
+    {"name":"Massagem desportiva","duration":"60 min","suggested":"R$ 130–190","notes":"Pode ter valor maior quando direcionada à recuperação pós-treino."},
+    {"name":"Liberação miofascial manual","duration":"50–60 min","suggested":"R$ 130–200","notes":"Sessão técnica; não vender como promessa de cura."},
+    {"name":"Drenagem linfática manual","duration":"60 min","suggested":"R$ 120–190","notes":"Pós-operatório somente com formação e liberação/encaminhamento adequados."},
+    {"name":"Drenagem modeladora / estética","duration":"60 min","suggested":"R$ 120–180","notes":"Deixar claro que é serviço estético, sem prometer emagrecimento."},
+    {"name":"Massagem modeladora","duration":"60 min","suggested":"R$ 120–180","notes":"Pode ser combinada com drenagem conforme formação e objetivo."},
+    {"name":"Ventosaterapia avulsa","duration":"30–45 min","suggested":"R$ 80–120","notes":"Como adicional à sessão: sugerir acréscimo de R$ 30–50."},
+    {"name":"Massagem com pedras quentes","duration":"60 min","suggested":"R$ 160–230","notes":"Inclui preparação, aquecimento e higienização dos materiais."},
+    {"name":"Bambuterapia","duration":"60 min","suggested":"R$ 130–190","notes":"Usar somente com treinamento e avaliação de contraindicações."},
+    {"name":"Shiatsu","duration":"60 min","suggested":"R$ 120–180","notes":"Faixa para atendimento em sala própria ou clínica comum."},
+    {"name":"Massagem ayurvédica","duration":"60–90 min","suggested":"R$ 180–260","notes":"Valor premium quando há formação específica e ritual completo."},
+    {"name":"Massagem com aromaterapia","duration":"60 min","suggested":"R$ 130–180","notes":"Informar quais óleos serão usados e investigar alergias."},
+    {"name":"Reflexologia podal","duration":"45–60 min","suggested":"R$ 90–150","notes":"Pode funcionar como serviço de entrada em clubes e hotéis."},
+    {"name":"Quick massage","duration":"15 min","suggested":"R$ 30–40","notes":"Para eventos: 30 min por R$ 50–70 ou negociar valor por hora."},
+    {"name":"Massagem facial / head spa","duration":"30–45 min","suggested":"R$ 70–120","notes":"Boa combinação com salões, spas, hotéis e pousadas."},
+    {"name":"Massagem para gestante","duration":"60 min","suggested":"R$ 130–190","notes":"Somente com capacitação específica e triagem cuidadosa."},
+    {"name":"Candle massage","duration":"60 min","suggested":"R$ 150–220","notes":"Produto, ambiente e experiência justificam posicionamento premium."}
+  ],
+  "adjustments": [
+    {"name":"Atendimento em domicílio","value":"Somar deslocamento real, tempo de ida e volta e materiais. Como piso prático, não sair por menos de R$ 30 adicionais dentro da cidade."},
+    {"name":"Atendimento em hotel ou pousada","value":"Combinar previamente acesso, montagem, horário e comissão. Evitar aceitar comissão que leve o valor líquido abaixo do preço mínimo."},
+    {"name":"Pacote de 4 sessões","value":"Desconto moderado de 5% a 10%, com pagamento antecipado ou calendário definido."},
+    {"name":"Pacote de 8 a 10 sessões","value":"Desconto de 10% a 15% no máximo, preservando materiais, faltas e pró-labore."},
+    {"name":"Atendimento em clube ou evento","value":"Quick massage por pessoa ou valor por hora. Definir número mínimo de horas e quem fornece espaço, cadeira e divulgação."}
+  ],
+  "sources": [
+    {"label":"Referência nacional SPAgenda — tabela de massoterapia 2026","url":"https://spagenda.com/artigo/preco-sessao-massagem","summary":"Faixas nacionais por técnica e observações sobre consultório, clínica, spa, domicílio e pacotes."},
+    {"label":"Referência regional — Conselheiro Lafaiete","url":"https://acheioprofissional.com.br/massagista/conselheiro-lafaiete-mg","summary":"Página regional informa relaxante de R$ 80–200/h, drenagem de R$ 90–220 e modeladora de R$ 100–250."},
+    {"label":"Referência nacional — Cronoshare 2026","url":"https://www.cronoshare.com.br/quanto-custa/servico-massagem","summary":"Aponta sessões a partir de R$ 100 e variação por técnica, duração e local."},
+    {"label":"Âncora local — São João del-Rei","url":"https://www.instagram.com/reel/DZXZ_ulzAkf/","summary":"Publicação localizada na pesquisa indica massoterapia a partir de R$ 90."},
+    {"label":"Âncora regional — Lavras","url":"https://www.instagram.com/reel/DUoLPAoEbVxe/","summary":"Resultado de busca localizado em Lavras menciona massagem relaxante de 60 minutos por R$ 120."},
+    {"label":"Âncora regional — Lavras, estética","url":"https://www.instagram.com/reel/DcEOKOfRT5N/","summary":"Resultado de busca localizado em Lavras menciona combinação de massagem relaxante com Reiki por R$ 135."}
+  ]
+}
