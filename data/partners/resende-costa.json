@@ -1,0 +1,40 @@
+[
+  {
+    "id": "ChIJj0Wg5teloQARs3qxodJdmhk",
+    "name": "Cristiane - Estética e Bem Estar",
+    "city": "Resende Costa",
+    "category": "Saúde / estética",
+    "description": "Clínica ou profissional de saúde/estética. Vale apresentar a massoterapia como serviço complementar, respeitando escopo e responsável técnico.",
+    "address": "R. Das Acácias, 12 - Novo Horizonte, Resende Costa - MG, 36340-000, Brazil",
+    "rating": 5,
+    "reviews": 1,
+    "phone": "(32) 99912-1697",
+    "phoneHref": "tel:+5532999121697"
+  },
+  {
+    "id": "ChIJd-Pgn43HoQAR3Er0ITqRo0M",
+    "name": "Renata Resende - Estética Facial e Corporal",
+    "city": "Resende Costa",
+    "category": "Estética / beleza",
+    "description": "Espaço de estética ou beleza. Pode ter sinergia com massoterapia, drenagem, relaxamento e indicação cruzada.",
+    "address": "R. Bueno Brandão, 05 - Centro, Resende Costa - MG, 36340-000, Brazil",
+    "rating": 5,
+    "reviews": 5,
+    "phone": "(32) 99816-1773",
+    "phoneHref": "tel:+5532998161773"
+  },
+  {
+    "id": "ChIJZ8Zppb2loQARItF0uvjvKtM",
+    "name": "Studio Fernanda Pereira",
+    "city": "Resende Costa",
+    "category": "Estética / beleza",
+    "description": "Espaço de estética ou beleza. Pode ter sinergia com massoterapia, drenagem, relaxamento e indicação cruzada.",
+    "address": "Luiz Henrique Rodrigues Pinto, 72 - Várzea, Resende Costa - MG, 36340-000, Brazil",
+    "rating": 5,
+    "reviews": 18,
+    "phone": "(32) 99809-7646",
+    "phoneHref": "tel:+5532998097646",
+    "link": "https://www.instagram.com/fezinhapereira?igsh=MTg2NDBuZjVyOGgweQ==",
+    "linkLabel": "Instagram"
+  }
+]
