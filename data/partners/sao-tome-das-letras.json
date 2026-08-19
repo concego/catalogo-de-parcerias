@@ -1,0 +1,24 @@
+[
+  {
+    "id": "ChIJw9OUCeLUnwARBD4-VNGBD8Y",
+    "name": "Chalés e Camping do Robinho",
+    "city": "São Tomé das Letras",
+    "category": "Hotelaria / turismo",
+    "description": "Hotel, pousada, hostel ou hospedaria com potencial para parceria de bem-estar, atendimento de hóspedes e ações em períodos de maior fluxo.",
+    "address": "Estrada São Thomé das Letras /Baependi - ao lado da cachoeira Eubiose - km 2,5 - Zona rural, São Tomé das Letras - MG, 37408-000, Brazil",
+    "rating": 4.7,
+    "reviews": 447,
+    "phone": "(35) 99119-1099",
+    "phoneHref": "tel:+5535991191099"
+  },
+  {
+    "id": "ChIJh3hEEwDVnwARzPATvCQ0rQQ",
+    "name": "Pousada Sagrada Familia",
+    "city": "São Tomé das Letras",
+    "category": "Hotelaria / turismo",
+    "description": "Hotel, pousada, hostel ou hospedaria com potencial para parceria de bem-estar, atendimento de hóspedes e ações em períodos de maior fluxo.",
+    "address": "R. João Batista Neves, 340, São Tomé das Letras - MG, 37418-000, Brazil",
+    "rating": 4.6,
+    "reviews": 5
+  }
+]
