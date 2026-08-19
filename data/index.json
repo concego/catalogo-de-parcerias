@@ -2,13 +2,13 @@
   "updated": "2026-08-18",
   "center": "São João del-Rei",
   "radius_km": 100,
-  "total": 115,
+  "total": 166,
   "cities": [
     {
       "name": "São João del Rei",
       "slug": "sao-joao-del-rei",
       "file": "data/partners/sao-joao-del-rei.json",
-      "count": 20
+      "count": 29
     },
     {
       "name": "Tiradentes",
@@ -20,7 +20,7 @@
       "name": "Santa Cruz de Minas",
       "slug": "santa-cruz-de-minas",
       "file": "data/partners/santa-cruz-de-minas.json",
-      "count": 1
+      "count": 2
     },
     {
       "name": "Prados",
@@ -38,25 +38,25 @@
       "name": "Barbacena",
       "slug": "barbacena",
       "file": "data/partners/barbacena.json",
-      "count": 16
+      "count": 25
     },
     {
       "name": "Lavras",
       "slug": "lavras",
       "file": "data/partners/lavras.json",
-      "count": 13
+      "count": 22
     },
     {
       "name": "Ouro Branco",
       "slug": "ouro-branco",
       "file": "data/partners/ouro-branco.json",
-      "count": 12
+      "count": 15
     },
     {
       "name": "Conselheiro Lafaiete",
       "slug": "conselheiro-lafaiete",
       "file": "data/partners/conselheiro-lafaiete.json",
-      "count": 14
+      "count": 26
     },
     {
       "name": "Resende Costa",
@@ -86,6 +86,54 @@
       "name": "Lima Duarte",
       "slug": "lima-duarte",
       "file": "data/partners/lima-duarte.json",
+      "count": 1
+    },
+    {
+      "name": "Cruzília",
+      "slug": "cruzilia",
+      "file": "data/partners/cruzilia.json",
+      "count": 1
+    },
+    {
+      "name": "Andrelândia",
+      "slug": "andrelandia",
+      "file": "data/partners/andrelandia.json",
+      "count": 1
+    },
+    {
+      "name": "Bonfim",
+      "slug": "bonfim",
+      "file": "data/partners/bonfim.json",
+      "count": 1
+    },
+    {
+      "name": "Bom Sucesso",
+      "slug": "bom-sucesso",
+      "file": "data/partners/bom-sucesso.json",
+      "count": 1
+    },
+    {
+      "name": "Perdões",
+      "slug": "perdoes",
+      "file": "data/partners/perdoes.json",
+      "count": 1
+    },
+    {
+      "name": "Congonhas",
+      "slug": "congonhas",
+      "file": "data/partners/congonhas.json",
+      "count": 1
+    },
+    {
+      "name": "Oliveira",
+      "slug": "oliveira",
+      "file": "data/partners/oliveira.json",
+      "count": 1
+    },
+    {
+      "name": "Lagoa Dourada",
+      "slug": "lagoa-dourada",
+      "file": "data/partners/lagoa-dourada.json",
       "count": 1
     }
   ]
