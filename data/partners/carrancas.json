@@ -1,0 +1,28 @@
+[
+  {
+    "id": "ChIJfziYAuiTnwAR5Vjjz9bEILs",
+    "name": "Pousada Céu e Serra",
+    "city": "Carrancas",
+    "category": "Hotelaria / turismo",
+    "description": "Hotel, pousada, hostel ou hospedaria com potencial para parceria de bem-estar, atendimento de hóspedes e ações em períodos de maior fluxo.",
+    "address": "Carrancas - State of Minas Gerais, 37245-000, Brazil",
+    "rating": 4.8,
+    "reviews": 375,
+    "phone": "(35) 98814-0662",
+    "phoneHref": "tel:+5535988140662",
+    "link": "http://www.pousadaceueserra.com.br/",
+    "linkLabel": "Site"
+  },
+  {
+    "id": "ChIJy5PPfAmUnwARlZKdPMoeqgQ",
+    "name": "Pousada dos Contos de Carrancas",
+    "city": "Carrancas",
+    "category": "Hotelaria / turismo",
+    "description": "Hotel, pousada, hostel ou hospedaria com potencial para parceria de bem-estar, atendimento de hóspedes e ações em períodos de maior fluxo.",
+    "address": "R. Mário Ribeiro Guimarães, 36 - Centro, Carrancas - MG, 37245-000, Brazil",
+    "rating": 4.4,
+    "reviews": 105,
+    "phone": "(35) 99806-5632",
+    "phoneHref": "tel:+5535998065632"
+  }
+]
