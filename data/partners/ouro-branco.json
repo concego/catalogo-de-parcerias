@@ -120,6 +120,16 @@
     "linkLabel": "Site"
   },
   {
+    "id": "ChIJj3qhu8XkowAR_oATpLViXu4",
+    "name": "Ouro Branco Esporte Clube",
+    "city": "Ouro Branco",
+    "category": "Clubes / lazer e esportes",
+    "description": "Clube, associação ou espaço esportivo com potencial para ações de bem-estar, atendimento em eventos e parceria com associados.",
+    "address": "R. Dr. Jadir, 311, Ouro Branco - MG, 36420-000, Brazil",
+    "rating": 4.5,
+    "reviews": 42
+  },
+  {
     "id": "ChIJq9kBAgDjowARIHRmVaYQ4j8",
     "name": "OuroHub - Hub de Inovação",
     "city": "Ouro Branco",
@@ -128,6 +138,18 @@
     "address": "R. José Gerspacher, 159, Ouro Branco - MG, 36420-000, Brazil",
     "link": "https://www.ifmg.edu.br/ourobranco/institucionais/ourohub",
     "linkLabel": "Site"
+  },
+  {
+    "id": "ChIJIQuqj0jjowARDIJRJgcAGGk",
+    "name": "Palladium Iate Club",
+    "city": "Ouro Branco",
+    "category": "Clubes / lazer e esportes",
+    "description": "Clube, associação ou espaço esportivo com potencial para ações de bem-estar, atendimento em eventos e parceria com associados.",
+    "address": "Av. Mariza de Souza Mendes, 3383 - Inconfidentes, Ouro Branco - MG, 36420-000, Brazil",
+    "rating": 3.9,
+    "reviews": 178,
+    "phone": "(31) 3742-1814",
+    "phoneHref": "tel:+553137421814"
   },
   {
     "id": "ChIJx8qwMsrjowARIf2qy6BecGg",
@@ -155,6 +177,20 @@
     "phone": "(31) 3742-3848",
     "phoneHref": "tel:+553137423848",
     "link": "http://www.serrapalacehotel.com.br/",
+    "linkLabel": "Site"
+  },
+  {
+    "id": "ChIJJ9060FHlowARjRs4G4ihLrQ",
+    "name": "Sparta Tênis Clube",
+    "city": "Ouro Branco",
+    "category": "Clubes / lazer e esportes",
+    "description": "Clube, associação ou espaço esportivo com potencial para ações de bem-estar, atendimento em eventos e parceria com associados.",
+    "address": "R. da Anhanguera, Ouro Branco - MG, 36420-000, Brazil",
+    "rating": 3.8,
+    "reviews": 113,
+    "phone": "(31) 3742-1342",
+    "phoneHref": "tel:+553137421342",
+    "link": "https://www.spartatenisclube.com.br/",
     "linkLabel": "Site"
   }
 ]
