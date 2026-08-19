@@ -1,0 +1,98 @@
+[
+  {
+    "id": "ChIJ0eQY8GkgogARHQUZYDqnLTg",
+    "name": "Clinfisio",
+    "city": "Barroso",
+    "category": "Saúde / estética",
+    "description": "Clínica ou profissional de saúde/estética. Vale apresentar a massoterapia como serviço complementar, respeitando escopo e responsável técnico.",
+    "address": "R. Júlio Pinto, 105 - Centro, Barroso - MG, 36212-000, Brazil",
+    "rating": 5,
+    "reviews": 1,
+    "phone": "(32) 99973-4450",
+    "phoneHref": "tel:+5532999734450"
+  },
+  {
+    "id": "ChIJuUIAGS_toQARZc9ekDies10",
+    "name": "Corpus Estética, Nutrição e Ginecologia",
+    "city": "Barroso",
+    "category": "Saúde / estética",
+    "description": "Clínica ou profissional de saúde/estética. Vale apresentar a massoterapia como serviço complementar, respeitando escopo e responsável técnico.",
+    "address": "Barroso - State of Minas Gerais, 36212-000, Brazil",
+    "phone": "(32) 3351-1127",
+    "phoneHref": "tel:+553233511127"
+  },
+  {
+    "id": "ChIJKTS2pi_toQARgVSEudN7sUQ",
+    "name": "Corpus Nutrição - Estética Dra. Janaína & S. Lazzarini",
+    "city": "Barroso",
+    "category": "Saúde / estética",
+    "description": "Clínica ou profissional de saúde/estética. Vale apresentar a massoterapia como serviço complementar, respeitando escopo e responsável técnico.",
+    "address": "R. Cel. Artur Napoleão, 143 - Barroso, MG, 36212-000, Brazil"
+  },
+  {
+    "id": "ChIJmdB-3S7toQARG6fNGWf5zT0",
+    "name": "Espaço Viva",
+    "city": "Barroso",
+    "category": "Bem-estar / massoterapia",
+    "description": "Negócio de bem-estar ou massoterapia. Pode ser parceiro para encaminhamentos, atuação complementar ou compartilhamento de sala.",
+    "address": "Praça Santana, 300 - casa 28, Barroso - MG, 36212-000, Brazil",
+    "rating": 5,
+    "reviews": 266,
+    "phone": "(32) 99965-6252",
+    "phoneHref": "tel:+5532999656252",
+    "link": "https://espacovivabarroso.com.br/",
+    "linkLabel": "Site"
+  },
+  {
+    "id": "ChIJAUn94zDtoQARia1r1bgmpkg",
+    "name": "InnovaFisio",
+    "city": "Barroso",
+    "category": "Saúde / estética",
+    "description": "Clínica ou profissional de saúde/estética. Vale apresentar a massoterapia como serviço complementar, respeitando escopo e responsável técnico.",
+    "address": "Rua Dona - R. Teresinha Meireles - Nova Barroso, Barroso - MG, 36212-000, Brazil",
+    "rating": 5,
+    "reviews": 32,
+    "phone": "(32) 99859-4973",
+    "phoneHref": "tel:+5532998594973"
+  },
+  {
+    "id": "ChIJu3d_7CjtoQAR0K0iFg6rgTI",
+    "name": "Kiane Paola Estética e Bem-estar | Biomedicina Estética",
+    "city": "Barroso",
+    "category": "Saúde / estética",
+    "description": "Clínica ou profissional de saúde/estética. Vale apresentar a massoterapia como serviço complementar, respeitando escopo e responsável técnico.",
+    "address": "R. Macedo Couto, 40 - Sl 302 - Centro, Barroso - MG, 36212-000, Brazil",
+    "rating": 5,
+    "reviews": 1,
+    "phone": "(32) 99105-1402",
+    "phoneHref": "tel:+5532991051402",
+    "link": "https://wa.me/message/FLCFWK6OPF42M1",
+    "linkLabel": "WhatsApp"
+  },
+  {
+    "id": "ChIJt3Ayz7TtoQAR1nozFjeVp58",
+    "name": "Nutricionista",
+    "city": "Barroso",
+    "category": "Saúde / estética",
+    "description": "Clínica ou profissional de saúde/estética. Vale apresentar a massoterapia como serviço complementar, respeitando escopo e responsável técnico.",
+    "address": "R. Macedo Couto, 40 - Segundo andar, sala 305 - Centro, Barroso - MG, 36212-000, Brazil",
+    "rating": 5,
+    "reviews": 14,
+    "phone": "(32) 99140-2910",
+    "phoneHref": "tel:+5532991402910",
+    "link": "https://nutricao.info/%20%20wesley.araujo.nutricionista",
+    "linkLabel": "Site"
+  },
+  {
+    "id": "ChIJ48CMaC7toQARetwUPD-SCCw",
+    "name": "Studio de Beleza Andressa",
+    "city": "Barroso",
+    "category": "Estética / beleza",
+    "description": "Espaço de estética ou beleza. Pode ter sinergia com massoterapia, drenagem, relaxamento e indicação cruzada.",
+    "address": "R. Joaquim Ferreira, Barroso - MG, 36212-000, Brazil",
+    "rating": 4,
+    "reviews": 2,
+    "phone": "(32) 98404-8410",
+    "phoneHref": "tel:+5532984048410"
+  }
+]
