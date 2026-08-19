@@ -1,62 +1,10 @@
 [
   {
-    "id": "ChIJIc-a6pHIoQARNuYjX3n5dxg",
-    "name": "Acala Terapias Corporais",
-    "city": "São João del Rei",
-    "category": "Bem-estar / massoterapia",
-    "description": "Negócio de bem-estar ou massoterapia. Pode ser parceiro para encaminhamentos, atuação complementar ou compartilhamento de sala.",
-    "address": "R. Alberto Magno Santana, 24 - Fábricas, São João del Rei - MG, 36301-240, Brazil",
-    "rating": 5,
-    "reviews": 9,
-    "phone": "(32) 99990-1661",
-    "phoneHref": "tel:+5532999901661",
-    "link": "https://acala.canva.link/bio",
-    "linkLabel": "Link de contato"
-  },
-  {
-    "id": "ChIJUXKRyivHoQAR6GQOxF9kqqk",
-    "name": "Carla Detomi Massoterapeuta",
-    "city": "São João del Rei",
-    "category": "Bem-estar / massoterapia",
-    "description": "Negócio de bem-estar ou massoterapia. Pode ser parceiro para encaminhamentos, atuação complementar ou compartilhamento de sala.",
-    "address": "R. Antônio Alves de Aquino, 111 - Bonfim, São João del Rei - MG, 36307-414, Brazil",
-    "rating": 4.9,
-    "reviews": 98,
-    "phone": "(32) 99959-7230",
-    "phoneHref": "tel:+5532999597230"
-  },
-  {
-    "id": "ChIJBYQ_akzJoQAR5ee5Q84JiD8",
-    "name": "Carlos Massoterapeuta",
-    "city": "São João del Rei",
-    "category": "Bem-estar / massoterapia",
-    "description": "Negócio de bem-estar ou massoterapia. Pode ser parceiro para encaminhamentos, atuação complementar ou compartilhamento de sala.",
-    "address": "Av. Tiradentes, 12 - Centro, São João del Rei - MG, 36307-346, Brazil",
-    "phone": "(19) 98200-9547",
-    "phoneHref": "tel:+5519982009547",
-    "link": "https://carlosmasso.g10corp.com.br/",
-    "linkLabel": "Link de contato"
-  },
-  {
-    "id": "ChIJF_VmvgHJoQARaSnaC_JzAJQ",
-    "name": "Carlos Mussum Massoterapeuta",
-    "city": "São João del Rei",
-    "category": "Bem-estar / massoterapia",
-    "description": "Negócio de bem-estar ou massoterapia. Pode ser parceiro para encaminhamentos, atuação complementar ou compartilhamento de sala.",
-    "address": "R. Dr. João Salustiano, 164 - Bonfim, São João del Rei - MG, 36307-440, Brazil",
-    "rating": 5,
-    "reviews": 12,
-    "phone": "(32) 93300-8290",
-    "phoneHref": "tel:+5532933008290",
-    "link": "https://taggo.one/carlosmussummassoterapeuta",
-    "linkLabel": "Site"
-  },
-  {
     "id": "ChIJndONi5rIoQARLF-qtXFs1KY",
     "name": "Clinica de Estética | Fisioclim | Criolipólise",
     "city": "São João del Rei",
-    "category": "Bem-estar / massoterapia",
-    "description": "Negócio de bem-estar ou massoterapia. Pode ser parceiro para encaminhamentos, atuação complementar ou compartilhamento de sala.",
+    "category": "Saúde / estética",
+    "description": "Clínica ou profissional de saúde/estética. Vale apresentar a massoterapia como serviço complementar, respeitando escopo e responsável técnico.",
     "address": "R. Comendador Costa, 119 - Centro, São João del Rei - MG, 36307-300, Brazil",
     "rating": 5,
     "reviews": 7,
@@ -142,6 +90,20 @@
     "phoneHref": "tel:+5532984226868"
   },
   {
+    "id": "ChIJFdajhJHIoQAR_0HCN_6yaK8",
+    "name": "Del Mundo Hostel",
+    "city": "São João del Rei",
+    "category": "Hotelaria / turismo",
+    "description": "Hotel, pousada, hostel ou hospedaria com potencial para parceria de bem-estar, atendimento de hóspedes e ações em períodos de maior fluxo.",
+    "address": "R. Santo Antônio, 224 - Águas Férreas (Tejuco), São João del Rei - MG, 36300-174, Brazil",
+    "rating": 4.7,
+    "reviews": 309,
+    "phone": "(32) 99843-1320",
+    "phoneHref": "tel:+5532998431320",
+    "link": "http://www.delmundohostel.com/",
+    "linkLabel": "Site"
+  },
+  {
     "id": "ChIJZc7xwQzHoQARvTnVe6_Y4Ig",
     "name": "Dra. Carolina Ribeiro - Fisioterapia e Estética",
     "city": "São João del Rei",
@@ -157,8 +119,8 @@
     "id": "ChIJe2_KzpbIoQARea9MMc36xZw",
     "name": "Espaço Fit Multidisciplinar",
     "city": "São João del Rei",
-    "category": "Bem-estar / massoterapia",
-    "description": "Negócio de bem-estar ou massoterapia. Pode ser parceiro para encaminhamentos, atuação complementar ou compartilhamento de sala.",
+    "category": "Spa / bem-estar",
+    "description": "Spa ou espaço de bem-estar. Vale sondar parceria para atendimento complementar, divulgação ou experiência para clientes.",
     "address": "R. Eduardo Magalhães, 98 - Centro, São João del Rei - MG, 36307-336, Brazil",
     "rating": 5,
     "reviews": 4,
@@ -171,8 +133,8 @@
     "id": "ChIJPQ2omnXJoQARW5ShCJ5cE5U",
     "name": "Estética Instituto R",
     "city": "São João del Rei",
-    "category": "Bem-estar / massoterapia",
-    "description": "Negócio de bem-estar ou massoterapia. Pode ser parceiro para encaminhamentos, atuação complementar ou compartilhamento de sala.",
+    "category": "Estética / beleza",
+    "description": "Espaço de estética ou beleza. Pode ter sinergia com serviços de bem-estar, drenagem, relaxamento e indicação cruzada.",
     "address": "R. Cel. Elpídio Gonçalves da Costa, 577 - Vila Marchetti, São João del Rei - MG, 36307-246, Brazil",
     "rating": 5,
     "reviews": 12,
@@ -194,6 +156,20 @@
     "phoneHref": "tel:+553233733690"
   },
   {
+    "id": "ChIJz7lPfAu4oQARxXjqA6W4_ew",
+    "name": "Garden Hill Hotel e Golfe",
+    "city": "São João del Rei",
+    "category": "Hotelaria / turismo",
+    "description": "Hotel, pousada, hostel ou hospedaria com potencial para parceria de bem-estar, atendimento de hóspedes e ações em períodos de maior fluxo.",
+    "address": "BR-383, km 96 - São Pedro (Colônia do Marçal), São João del Rei - MG, 36302-548, Brazil",
+    "rating": 4.1,
+    "reviews": 345,
+    "phone": "(32) 3371-2551",
+    "phoneHref": "tel:+553233712551",
+    "link": "https://www.gardenhillhotelegolfe.com.br/",
+    "linkLabel": "Site"
+  },
+  {
     "id": "ChIJpRGvrYXIoQAR6Id8JxHM3Go",
     "name": "Hidromed Integrated Center",
     "city": "São João del Rei",
@@ -206,6 +182,20 @@
     "phoneHref": "tel:+553233722500"
   },
   {
+    "id": "ChIJ5-ahX1_HoQARHxYwTR5jPqQ",
+    "name": "Hotel Boutique Canto da Seriema - Tiradentes - MG",
+    "city": "São João del Rei",
+    "category": "Hotelaria / turismo",
+    "description": "Hotel, pousada, hostel ou hospedaria com potencial para parceria de bem-estar, atendimento de hóspedes e ações em períodos de maior fluxo.",
+    "address": "Av. Gov. Israel Pinheiro - São João del Rei, Tiradentes - MG, 36325-000, Brazil",
+    "rating": 5,
+    "reviews": 27,
+    "phone": "(32) 99141-8972",
+    "phoneHref": "tel:+5532991418972",
+    "link": "https://wa.me/+5532991418972?text=Ol%C3%A1!%20Vim%20atrav%C3%A9s%20do%20Google.",
+    "linkLabel": "WhatsApp"
+  },
+  {
     "id": "ChIJF5d81JPIoQARfsrbHCB8gZo",
     "name": "Instituto Spix & Martius",
     "city": "São João del Rei",
@@ -214,44 +204,6 @@
     "address": "Ao largo do Rosário, 53 - Pte. do Rosário - Centro, São João del Rei - MG, 36300-186, Brazil",
     "link": "http://institutospixmartius.com.br/",
     "linkLabel": "Site"
-  },
-  {
-    "id": "ChIJt1M8CXfHoQARQguzFnzXrX8",
-    "name": "Jefferson Reis - Massoterapia",
-    "city": "São João del Rei",
-    "category": "Bem-estar / massoterapia",
-    "description": "Negócio de bem-estar ou massoterapia. Pode ser parceiro para encaminhamentos, atuação complementar ou compartilhamento de sala.",
-    "address": "R. Poe. Venâncio Castanheira Filho, 344 - Vila do Carmo (Colonia do Marcal), São João del Rei - MG, 36302-020, Brazil",
-    "rating": 5,
-    "reviews": 1,
-    "phone": "(32) 99920-9219",
-    "phoneHref": "tel:+5532999209219",
-    "link": "https://bit.ly/whatsapp-do-jefferson",
-    "linkLabel": "WhatsApp"
-  },
-  {
-    "id": "ChIJh5ErRVrJoQARB6e8qr0yXS8",
-    "name": "lf.massagista são joão del rei.",
-    "city": "São João del Rei",
-    "category": "Bem-estar / massoterapia",
-    "description": "Negócio de bem-estar ou massoterapia. Pode ser parceiro para encaminhamentos, atuação complementar ou compartilhamento de sala.",
-    "address": "R. Francisco Assis Cunha - São João del Rei, MG, 36309-032, Brazil",
-    "rating": 5,
-    "reviews": 5,
-    "phone": "(32) 99828-4335",
-    "phoneHref": "tel:+5532998284335"
-  },
-  {
-    "id": "ChIJU8bW3MHJoQARv5Jyk5VM4sA",
-    "name": "Massoterapia e Bem-Estar Feminino",
-    "city": "São João del Rei",
-    "category": "Bem-estar / massoterapia",
-    "description": "Negócio de bem-estar ou massoterapia. Pode ser parceiro para encaminhamentos, atuação complementar ou compartilhamento de sala.",
-    "address": "Av. Andrade Réis, 166 - Sl 201 - Centro, São João del Rei - MG, 36307-320, Brazil",
-    "rating": 5,
-    "reviews": 7,
-    "phone": "(32) 99102-1914",
-    "phoneHref": "tel:+5532991021914"
   },
   {
     "id": "ChIJB5CN6WfJoQARb-YJ3FbFGf4",
@@ -264,18 +216,32 @@
     "reviews": 22
   },
   {
-    "id": "ChIJQVc5-IbJoQARm8Id_dUk02o",
-    "name": "Núcleo de Massoterapia",
+    "id": "ChIJ61RC4-vHoQAR7ejiTfk01s4",
+    "name": "Pousada Paço do Lavradio",
     "city": "São João del Rei",
-    "category": "Bem-estar / massoterapia",
-    "description": "Negócio de bem-estar ou massoterapia. Pode ser parceiro para encaminhamentos, atuação complementar ou compartilhamento de sala.",
-    "address": "R. Min. Gabriel Passos, 243 - Centro, São João del Rei - MG, 36307-330, Brazil",
-    "rating": 5,
-    "reviews": 31,
-    "phone": "(32) 99932-5684",
-    "phoneHref": "tel:+5532999325684",
-    "link": "https://www.instagram.com/nucleodemassoterapia/",
-    "linkLabel": "Instagram"
+    "category": "Hotelaria / turismo",
+    "description": "Hotel, pousada, hostel ou hospedaria com potencial para parceria de bem-estar, atendimento de hóspedes e ações em períodos de maior fluxo.",
+    "address": "R. Treze, 20 - Recreio das Alterosas (Colônia do Marçal), São João del Rei - MG, 36302-010, Brazil",
+    "rating": 4.6,
+    "reviews": 427,
+    "phone": "(32) 99123-5174",
+    "phoneHref": "tel:+5532991235174",
+    "link": "http://www.pacodolavradio.com.br/",
+    "linkLabel": "Site"
+  },
+  {
+    "id": "ChIJKXNd0vK4oQAR09vgfVYda_M",
+    "name": "Pousada Serra do Ouro",
+    "city": "São João del Rei",
+    "category": "Hotelaria / turismo",
+    "description": "Hotel, pousada, hostel ou hospedaria com potencial para parceria de bem-estar, atendimento de hóspedes e ações em períodos de maior fluxo.",
+    "address": "Av. Pres. Castelo Branco, 2130 - São Pedro (Colônia do Marçal), São João del Rei - MG, 36325-000, Brazil",
+    "rating": 4.2,
+    "reviews": 189,
+    "phone": "(32) 99991-4259",
+    "phoneHref": "tel:+5532999914259",
+    "link": "http://www.pousadaserradoouro.com.br/",
+    "linkLabel": "Site"
   },
   {
     "id": "ChIJMcu7qBTJoQARwJQud6KnVic",
@@ -290,15 +256,5 @@
     "phoneHref": "tel:+5532999236423",
     "link": "http://www.hubrockfort.com.br/",
     "linkLabel": "Site"
-  },
-  {
-    "id": "ChIJMxJ2MgDHoQAReZE2sueOw2o",
-    "name": "Shirley Jovara Solis Massoterapeuta Humanizada TopCorpus",
-    "city": "São João del Rei",
-    "category": "Bem-estar / massoterapia",
-    "description": "Negócio de bem-estar ou massoterapia. Pode ser parceiro para encaminhamentos, atuação complementar ou compartilhamento de sala.",
-    "address": "Av. Josué de Queirós, 1390 - Bom Pastor, São João del Rei - MG, 36305-144, Brazil",
-    "rating": 5,
-    "reviews": 1
   }
 ]
