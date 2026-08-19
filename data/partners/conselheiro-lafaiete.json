@@ -1,5 +1,51 @@
 [
   {
+    "id": "ChIJjfxusiBgoQARt8YzNlXUnAE",
+    "name": "Atlanta Esporte Clube",
+    "city": "Conselheiro Lafaiete",
+    "category": "Clubes / lazer e esportes",
+    "description": "Clube, associação ou espaço esportivo com potencial para ações de bem-estar, atendimento em eventos e parceria com associados.",
+    "address": "Pça. Pimentel Duarte, 133 - Cpo Alegre, Conselheiro Lafaiete - MG, 36400-000, Brazil",
+    "rating": 4.2,
+    "reviews": 38,
+    "phone": "(31) 3763-8917",
+    "phoneHref": "tel:+553137638917"
+  },
+  {
+    "id": "ChIJkaScfPJhoQAReuuISxhs494",
+    "name": "Central Esporte E Lazer",
+    "city": "Conselheiro Lafaiete",
+    "category": "Outro espaço potencial",
+    "description": "Estabelecimento com potencial de parceria local; confirmar se existe sala, público compatível ou interesse em divulgação.",
+    "address": "36400-000 - Amaro Ribeiro, Conselheiro Lafaiete - MG, 36400-000, Brazil",
+    "rating": 4.4,
+    "reviews": 256,
+    "phone": "(31) 98848-0626",
+    "phoneHref": "tel:+5531988480626"
+  },
+  {
+    "id": "ChIJN0xmZpjfowARnu0ZNOrfjPo",
+    "name": "Centro de esportes unificados",
+    "city": "Conselheiro Lafaiete",
+    "category": "Clubes / lazer e esportes",
+    "description": "Clube, associação ou espaço esportivo com potencial para ações de bem-estar, atendimento em eventos e parceria com associados.",
+    "address": "R. Ito Alves, 175 - Progresso, Conselheiro Lafaiete - MG, 36400-000, Brazil",
+    "rating": 4.5,
+    "reviews": 2
+  },
+  {
+    "id": "ChIJ9TD8IDdgoQARrv8QyI02TOc",
+    "name": "Centroluz Esporte Clube",
+    "city": "Conselheiro Lafaiete",
+    "category": "Clubes / lazer e esportes",
+    "description": "Clube, associação ou espaço esportivo com potencial para ações de bem-estar, atendimento em eventos e parceria com associados.",
+    "address": "R. Djalma Andrade, 226 - Jardim Alvorada, Conselheiro Lafaiete - MG, 36400-000, Brazil",
+    "rating": 4.3,
+    "reviews": 47,
+    "phone": "(31) 98513-3597",
+    "phoneHref": "tel:+5531985133597"
+  },
+  {
     "id": "ChIJLaD6BrNhoQARVaNdR3X0u3E",
     "name": "Chantall Spa",
     "city": "Conselheiro Lafaiete",
@@ -36,6 +82,20 @@
     "phoneHref": "tel:+5531986858986",
     "link": "https://linktr.ee/clinicavivianemagalhaes?fbclid=PAZXh0bgNhZW0CMTEAAadNh8_xEDDtgyoKFzBPvZW2rxmWKE5M1tPIVDdjkqZQ9-lSSIwbgShat6MlCw_aem_UTFZ6QIfenNL5zdjU-V05Q",
     "linkLabel": "Link de contato"
+  },
+  {
+    "id": "ChIJj047LyxgoQARjCswmq993_A",
+    "name": "Clube Recreativo Dom Pedro II",
+    "city": "Conselheiro Lafaiete",
+    "category": "Clubes / lazer e esportes",
+    "description": "Clube, associação ou espaço esportivo com potencial para ações de bem-estar, atendimento em eventos e parceria com associados.",
+    "address": "R. Floriano Lopes Franco, 10 - Carijós, Conselheiro Lafaiete - MG, 36406-106, Brazil",
+    "rating": 4.7,
+    "reviews": 2256,
+    "phone": "(31) 3769-2375",
+    "phoneHref": "tel:+553137692375",
+    "link": "http://www.clubedompedroii.com.br/",
+    "linkLabel": "Site"
   },
   {
     "id": "ChIJf-e41JvfowAR7NH3wjadIMY",
@@ -78,6 +138,16 @@
     "linkLabel": "Link de contato"
   },
   {
+    "id": "ChIJVf8V_TFgoQARbHDPVrTQ7IU",
+    "name": "Guarany Esporte Clube",
+    "city": "Conselheiro Lafaiete",
+    "category": "Clubes / lazer e esportes",
+    "description": "Clube, associação ou espaço esportivo com potencial para ações de bem-estar, atendimento em eventos e parceria com associados.",
+    "address": "R. Bias Fortes, 555 - São Sebastiao, Conselheiro Lafaiete - MG, 36400-000, Brazil",
+    "rating": 4.3,
+    "reviews": 18
+  },
+  {
     "id": "ChIJoQOX-K_fowARc6IBjKbqhDs",
     "name": "Hotel Meri Lafaiete",
     "city": "Conselheiro Lafaiete",
@@ -90,6 +160,30 @@
     "phoneHref": "tel:+553137638870",
     "link": "http://hotelmeri.com.br/",
     "linkLabel": "Site"
+  },
+  {
+    "id": "ChIJC5DY8CVgoQARe9vQJcv_YjI",
+    "name": "Lafaiete Sider Clube",
+    "city": "Conselheiro Lafaiete",
+    "category": "Clubes / lazer e esportes",
+    "description": "Clube, associação ou espaço esportivo com potencial para ações de bem-estar, atendimento em eventos e parceria com associados.",
+    "address": "Brazil, Minas Gerais, Conselheiro Lafaiete, São Sebastiao, フルタード通り 101",
+    "rating": 4.8,
+    "reviews": 4,
+    "phone": "(31) 3761-1626",
+    "phoneHref": "tel:+553137611626"
+  },
+  {
+    "id": "ChIJ1fTNBHBhoQARV2TLIK0NiYU",
+    "name": "Lions Clube Lafaiete Centro",
+    "city": "Conselheiro Lafaiete",
+    "category": "Clubes / lazer e esportes",
+    "description": "Clube, associação ou espaço esportivo com potencial para ações de bem-estar, atendimento em eventos e parceria com associados.",
+    "address": "Av. Dom Pedro II, 208 - São Sebastiao, Conselheiro Lafaiete - MG, 36406-063, Brazil",
+    "rating": 4.9,
+    "reviews": 9,
+    "phone": "(31) 98945-9017",
+    "phoneHref": "tel:+5531989459017"
   },
   {
     "id": "ChIJH9wYwglhoQAROMHPpBssBn8",
@@ -118,6 +212,28 @@
     "phoneHref": "tel:+553139396226",
     "link": "http://www.medcowork.com/",
     "linkLabel": "Site"
+  },
+  {
+    "id": "ChIJC4SlaovfowARoK2D0XMY43I",
+    "name": "Meridional Esporte Clube",
+    "city": "Conselheiro Lafaiete",
+    "category": "Clubes / lazer e esportes",
+    "description": "Clube, associação ou espaço esportivo com potencial para ações de bem-estar, atendimento em eventos e parceria com associados.",
+    "address": "36400-000 - Campo Alegre dos Cajiros, Conselheiro Lafaiete - MG, 36400-132, Brazil",
+    "rating": 4.2,
+    "reviews": 66
+  },
+  {
+    "id": "ChIJoQOX-K_fowARWdvAs8VmXZc",
+    "name": "Millennium Sports Center",
+    "city": "Conselheiro Lafaiete",
+    "category": "Outro espaço potencial",
+    "description": "Estabelecimento com potencial de parceria local; confirmar se existe sala, público compatível ou interesse em divulgação.",
+    "address": "R. Dr. Victor Bhering, 310 - Jardim America, Conselheiro Lafaiete - MG, 36400-000, Brazil",
+    "rating": 4.3,
+    "reviews": 246,
+    "phone": "(31) 3721-1127",
+    "phoneHref": "tel:+553137211127"
   },
   {
     "id": "ChIJKxRGZyZhoQARJlL0XGjLylc",
@@ -156,6 +272,18 @@
     "linkLabel": "Site"
   },
   {
+    "id": "ChIJ1SLJ4ITfowARvY9h_tNMUoA",
+    "name": "Sociedade Recreativa Bando da Lua",
+    "city": "Conselheiro Lafaiete",
+    "category": "Clubes / lazer e esportes",
+    "description": "Clube, associação ou espaço esportivo com potencial para ações de bem-estar, atendimento em eventos e parceria com associados.",
+    "address": "R. Álvaro Rangel, 305 - Albinopolis, Conselheiro Lafaiete - MG, 36400-000, Brazil",
+    "rating": 4.3,
+    "reviews": 91,
+    "phone": "(31) 3762-2595",
+    "phoneHref": "tel:+553137622595"
+  },
+  {
     "id": "ChIJkbleBpBhoQAR83vugS1Pnrk",
     "name": "Spa Rejuvenėr Luciana Andrioni (harmonização facial)",
     "city": "Conselheiro Lafaiete",
@@ -166,6 +294,16 @@
     "reviews": 1,
     "phone": "(31) 98622-0195",
     "phoneHref": "tel:+5531986220195"
+  },
+  {
+    "id": "ChIJD-gC7sVhoQARJeFLkUfPDDY",
+    "name": "São Dimas Esporte Clube - S.D.E.C",
+    "city": "Conselheiro Lafaiete",
+    "category": "Clubes / lazer e esportes",
+    "description": "Clube, associação ou espaço esportivo com potencial para ações de bem-estar, atendimento em eventos e parceria com associados.",
+    "address": "Rua: Maria da Costa, 10 - Jardim Alvorada, Conselheiro Lafaiete - MG, 36400-000, Brazil",
+    "phone": "(31) 99925-7342",
+    "phoneHref": "tel:+5531999257342"
   },
   {
     "id": "ChIJQWnpP3ljZUwRU7XZpTFx7wA",
