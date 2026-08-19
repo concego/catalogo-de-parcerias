@@ -1,5 +1,43 @@
 [
   {
+    "id": "ChIJTTILSl0gogAR3yBJgrOt4KI",
+    "name": "Andaraí Esporte Clube",
+    "city": "Barbacena",
+    "category": "Clubes / lazer e esportes",
+    "description": "Clube, associação ou espaço esportivo com potencial para ações de bem-estar, atendimento em eventos e parceria com associados.",
+    "address": "Av. Bias Fortes, 995 - Centro, Barbacena - MG, 36200-068, Brazil",
+    "rating": 4.1,
+    "reviews": 40,
+    "phone": "(32) 3331-5750",
+    "phoneHref": "tel:+553233315750",
+    "link": "https://andarai.webnode.page/",
+    "linkLabel": "Site"
+  },
+  {
+    "id": "ChIJ2WczjVsgogARUJRbHJH5hpo",
+    "name": "Andaraí Esporte Clube",
+    "city": "Barbacena",
+    "category": "Clubes / lazer e esportes",
+    "description": "Clube, associação ou espaço esportivo com potencial para ações de bem-estar, atendimento em eventos e parceria com associados.",
+    "address": "R. São Vicente de Paulo, 278 - Andarai, Barbacena - MG, 36200-008, Brazil",
+    "rating": 3.8,
+    "reviews": 52,
+    "phone": "(32) 98480-1641",
+    "phoneHref": "tel:+5532984801641"
+  },
+  {
+    "id": "ChIJn2ejRn4hogARxf-t3iHwSSk",
+    "name": "ASSOCIAÇÃO JUVENTUS BQ",
+    "city": "Barbacena",
+    "category": "Clubes / lazer e esportes",
+    "description": "Clube, associação ou espaço esportivo com potencial para ações de bem-estar, atendimento em eventos e parceria com associados.",
+    "address": "R. Olegário Rabêlo da Fonseca - São Pedro, Barbacena - MG, 36204-216, Brazil",
+    "rating": 5,
+    "reviews": 4,
+    "phone": "(32) 99881-9309",
+    "phoneHref": "tel:+5532998819309"
+  },
+  {
     "id": "ChIJ4egRawAhogARH7gt7kpGhoM",
     "name": "Barbacena mg",
     "city": "Barbacena",
@@ -52,6 +90,28 @@
     "linkLabel": "Site"
   },
   {
+    "id": "ChIJt4Vs1WogogARHUDh4JFXAP4",
+    "name": "Clube Barbacenense",
+    "city": "Barbacena",
+    "category": "Clubes / lazer e esportes",
+    "description": "Clube, associação ou espaço esportivo com potencial para ações de bem-estar, atendimento em eventos e parceria com associados.",
+    "address": "R. Vig. Brito, 53 - Centro, Barbacena - MG, 36200-004, Brazil",
+    "rating": 4.6,
+    "reviews": 19,
+    "phone": "(32) 3331-0257",
+    "phoneHref": "tel:+553233310257"
+  },
+  {
+    "id": "ChIJgb956dYhogARKSSl98T7i6g",
+    "name": "Clube Campestre FHEMIG",
+    "city": "Barbacena",
+    "category": "Clubes / lazer e esportes",
+    "description": "Clube, associação ou espaço esportivo com potencial para ações de bem-estar, atendimento em eventos e parceria com associados.",
+    "address": "Floresta, Barbacena - MG, Brazil",
+    "rating": 5,
+    "reviews": 1
+  },
+  {
     "id": "ChIJ74tdmi0hogARqOyll7PuQow",
     "name": "Clínica Tati Araújo I Estética e Corporal Avançada I Emagrecimento I Tratamentos Para Todo o Corpo",
     "city": "Barbacena",
@@ -86,6 +146,16 @@
     "address": "R. Alfredo Renault, nº 96 - Centro, Barbacena - MG, 36200-110, Brazil",
     "phone": "(32) 3331-3383",
     "phoneHref": "tel:+553233313383"
+  },
+  {
+    "id": "ChIJQ8ha1MEgogAR25-G0dCLSC4",
+    "name": "Esporte Clube Barbacena - Antigo Beira Linha",
+    "city": "Barbacena",
+    "category": "Clubes / lazer e esportes",
+    "description": "Clube, associação ou espaço esportivo com potencial para ações de bem-estar, atendimento em eventos e parceria com associados.",
+    "address": "Grogotó, Barbacena - MG, Brazil",
+    "rating": 3.8,
+    "reviews": 12
   },
   {
     "id": "ChIJNagWEvshogARHHDCi7RkDts",
@@ -124,6 +194,42 @@
     "reviews": 7,
     "phone": "(32) 3331-6818",
     "phoneHref": "tel:+553233316818"
+  },
+  {
+    "id": "ChIJi0vfEwAhogARM-URaWf5NSA",
+    "name": "Oeste Clube",
+    "city": "Barbacena",
+    "category": "Clubes / lazer e esportes",
+    "description": "Clube, associação ou espaço esportivo com potencial para ações de bem-estar, atendimento em eventos e parceria com associados.",
+    "address": "Av. Itália, 13 - Do Campo, Barbacena - MG, 36200-693, Brazil",
+    "rating": 5,
+    "reviews": 14,
+    "phone": "(32) 99957-3378",
+    "phoneHref": "tel:+5532999573378"
+  },
+  {
+    "id": "ChIJVV0I-GogogARtRUjULDUEMk",
+    "name": "Olympic Club",
+    "city": "Barbacena",
+    "category": "Clubes / lazer e esportes",
+    "description": "Clube, associação ou espaço esportivo com potencial para ações de bem-estar, atendimento em eventos e parceria com associados.",
+    "address": "R. Teobaldo Tolendal, 31 - Centro, Barbacena - MG, 36200-010, Brazil",
+    "rating": 4.2,
+    "reviews": 85,
+    "phone": "(32) 4101-1593",
+    "phoneHref": "tel:+553241011593",
+    "link": "https://olympicbarbacena.com.br/",
+    "linkLabel": "Site"
+  },
+  {
+    "id": "ChIJBe_fmToiogARyS0JV-QtL-A",
+    "name": "Olympic Club Campestre Headquarters",
+    "city": "Barbacena",
+    "category": "Clubes / lazer e esportes",
+    "description": "Clube, associação ou espaço esportivo com potencial para ações de bem-estar, atendimento em eventos e parceria com associados.",
+    "address": "Mantiqueira do Palmital, Barbacena - State of Minas Gerais, Brazil",
+    "rating": 4.7,
+    "reviews": 214
   },
   {
     "id": "ChIJS9VYZEshogARq9M9UQJXHQ0",
